@@ -27,3 +27,7 @@ jobs:
           GH_TOKEN: $
           PR_URL: $
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
